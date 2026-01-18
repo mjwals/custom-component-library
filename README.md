@@ -1,5 +1,5 @@
 # Custom Component Library
-Inspired by Bootstrap 3, I created a set of pre‑styled components to speed up development. These components were later used in a call‑centre application called "Fire".
+Inspired by Bootstrap 3, I created a prototype set of pre‑styled components to speed up development. These components were later used in a call‑centre application called "Fire".
 
 Designed in Adobe Photoshop and built by myself in 2019.
 
