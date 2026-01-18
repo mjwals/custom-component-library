@@ -9,6 +9,6 @@ Designed in Adobe Photoshop and built by myself in 2019.
 - CSS
 - jQuery v1.12.4
 - Bootstrap v3.3.7
-- FontAwesome
+- FontAwesome v5.0.8
 ## How to use it
 There are no prerequisites required. Simply download the zip folder and open `index.html`.
