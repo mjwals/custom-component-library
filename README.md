@@ -7,7 +7,7 @@ Designed in Adobe Photoshop and built by myself in 2019.
 ## Tech stack
 - HTML
 - CSS
-- jQuery
+- jQuery v1.12.4
 - Bootstrap v3.3.7
 - FontAwesome
 ## How to use it
